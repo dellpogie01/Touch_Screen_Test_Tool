@@ -1,0 +1,1 @@
+{"name":"Touchscreen Test Tool","description":"Inspect touch coverage, identify unresponsive areas, and test simultaneous multitouch input.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
